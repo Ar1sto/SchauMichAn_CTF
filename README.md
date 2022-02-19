@@ -23,4 +23,4 @@ Leute von der Existenz dieses CTF's bescheid wissen und an diesem Rätsel teilne
                 ||     ||
 -Ar1sto
 
-![SchauMichAN Capture The Flag - Version 1.1]SchauMichAn_CTF_1.1.png)
+![SchauMichAN Capture The Flag - Version 1.1](SchauMichAn_CTF_1.1.png)
