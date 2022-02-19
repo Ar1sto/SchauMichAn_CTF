@@ -8,7 +8,7 @@ Die einzigste Voraussetzung: Python 3.x Viel Spaß!
   die .py Datei **nicht** mehr ausführen.
 - Führe die .py Datei "SchauMichAn_CTF_1.1.py" mit `python SchauMichAn_CTF_1.1.py` aus.
     - Je nach Betriebsystem und Umgebung kann sich der Befehl leicht ändern.
-    - ! Je nach nach Betriebsystem kann können Funktionen ausfallen und dazu führen das die Challenge nicht lösbar ist. 
+    - ! Je nach nach Betriebsystem können Funktionen ausfallen und dazu führen das die Challenge nicht lösbar ist. 
 
 Wenn dir das CTF gefällt oder du mit anderen daran rätseln möchtest, wäre es sehr cool wenn du diese Repo teilst damit viele
 Leute von der Existenz dieses CTF's bescheid wissen und an diesem Rätsel teilnehmen können.
