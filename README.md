@@ -6,7 +6,7 @@ Die einzigste Voraussetzung: Python 3.x Viel Spaß!
 - Entpacke die .zip Datei
 - lass die .py und den Ordner "pytransform" in dem **selben** Verzeichnis. Ansonsten kannst du 
   die .py Datei **nicht** mehr ausführen.
-- Führe die .py Datei "SchauMichAn_CTF_1.1.py" mit <python SchauMichAn_CTF_1.1.py> aus.
+- Führe die .py Datei "SchauMichAn_CTF_1.1.py" mit `python SchauMichAn_CTF_1.1.py` aus.
     - Je nach Betriebsystem und Umgebung kann sich der Befehl leicht ändern.
     - ! Je nach nach Betriebsystem kann können Funktionen ausfallen und dazu führen das die Challenge nicht lösbar ist. 
 
