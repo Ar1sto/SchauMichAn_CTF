@@ -29,18 +29,18 @@ Ich hoffe die Challenge fordert dich ein bisschen. Viel Spaß und gutes gelingen
 
 VERSION 1.2.0
 
--Systemunterstützung
+- Systemunterstützung
        - Seit Version 1.2.0 wird auschließlich Linux(Debian) basierte Systeme unterstützt.  
--Registrierung u. Anmeldung
+- Registrierung u. Anmeldung
        - Es ist nun möglich sich mit einem Discord- oder beliebigen Namen zu registrieren und einzuloggen.
--Verbesserungen
+- Verbesserungen
        - Es wurden Fehler und Bugs entfernt.
        - Der Siegestext wurde angepasst und verbessert.
        - Es wurde eine verbesserte obfuscation-Technik verwendet.
        - Es wurde mit einer neueren Python-Version Kompiliert, wodurch es aktuell nicht so leicht möglich ist den Code zu Dekompilieren.
        - Alles wurde Design-technisch aufgehübscht.
        - Bei falscher Eingabe werden kleine Tipps angezeigt.
--Neue Spielregeln
+- Neue Spielregeln
        - Das Passwort wurde geändert.
        - Es gibt nun neue Spuren die zum Ziel führen
        - Es wurde eine Update-Funktion implementiert, es ist nicht mehr nötig jede neue Version selber Herunterzuladen.
