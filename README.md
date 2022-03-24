@@ -12,7 +12,7 @@ Die einzigste Voraussetzung: Python3 und eine Linux-Distribution die am besten a
 
 ## Wie kann ich die Challenge beginnen?
 - Untersuche die Bild-Datei
-![SchauMichAN Capture The Flag - Version 1.2]https://raw.githubusercontent.com/Ar1sto/SchauMichAn_CTF/main/SchauMichAnCTF1.2.0.png)
+![SchauMichAN Capture The Flag - Version 1.2](https://raw.githubusercontent.com/Ar1sto/SchauMichAn_CTF/main/SchauMichAnCTF1.2.0.png)
 - Führe die Challenge aus "SchauMichAnCTF" mit <python3 SchauMichAnCTF> aus.
     - Je nach Linux-Distribution und Umgebung kann sich der Befehl leicht ändern.
  
