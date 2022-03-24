@@ -25,7 +25,7 @@ Ich hoffe die Challenge fordert dich ein bisschen. Viel Spaß und gutes gelingen
 
 -Ar1sto
 
-##UPDATE INFORMATIONEN
+## UPDATE INFORMATIONEN
 
 VERSION 1.2.0
 
