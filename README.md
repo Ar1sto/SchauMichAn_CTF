@@ -1,6 +1,6 @@
 # SchauMichAn.CTF
 Ich möchte jeden herzlichst dazu einladen an meinem CTF teilzunehmen. Versuche dieses Rätsel zu lösen.
-Die einzigste Voraussetzung: Python3 und eine Linux-Distribution die am besten auf Debian basiert. 
+Die einzige Voraussetzung: Python3 und eine Linux-Distribution die am besten auf Debian basiert. 
 
 - Das Menü wenn du startest.
 ![SchauMichAN Capture The Flag - Version 1.1 Menü](https://github.com/Ar1sto/SchauMichAn_CTF/blob/main/menu_SchauMichAnCTF.png)
