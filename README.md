@@ -46,6 +46,6 @@ VERSION 1.2.0
    - Es wurde eine Update-Funktion implementiert, es ist nicht mehr nötig jede neue Version selber Herunterzuladen.
    - Jede neue Version wird eine eigene CTF für sich sein mit großen als auch kleinen Veränderungen. Behalte also alte Versionen lieber und betrachte sie als Trophäen.
 
-Bei Fragen, Kritik oder Anregungen kontaktieren sie: 
+Bei Fragen, Kritik oder Anregungen kontaktieren Sie: 
 
        Discord: Omniscius#6583 
