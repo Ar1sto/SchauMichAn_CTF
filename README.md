@@ -23,9 +23,9 @@ Leute von der Existenz dieses CTF's bescheid wissen und an diesem Rätsel teilne
 
 Ich hoffe die Challenge fordert dich ein bisschen. Viel Spaß und gutes gelingen!
 
-- Ar1sto
+-Ar1sto
 
-###UPDATE-INFOS
+##UPDATE INFORMATIONEN
 
 VERSION 1.2.0
 
