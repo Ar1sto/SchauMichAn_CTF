@@ -3,11 +3,11 @@ Ich möchte jeden herzlichst dazu einladen an meinem CTF teilzunehmen. Versuche 
 Die einzige Voraussetzung: Python3 und eine Linux-Distribution die am besten auf Debian basiert. 
 
 - Das Menü wenn du startest.
-![SchauMichAN Capture The Flag - Version 1.1 Menü](https://github.com/Ar1sto/SchauMichAn_CTF/blob/main/menu_SchauMichAnCTF.png)
+![SchauMichAN Capture The Flag - Version 1.2 Menü](https://github.com/Ar1sto/SchauMichAn_CTF/blob/main/vorschaubilder/menu_SchauMichAnCTF.png)
 - Du musst dich Registrieren wenn du mitspielen möchtest.
-![SchauMichAN Capture The Flag - Version 1.1](https://github.com/Ar1sto/SchauMichAn_CTF/blob/main/registrierung_SchauMichAnCTF.png)
+![SchauMichAN Capture The Flag - Version 1.2 Registrierung_u_Anmeldung](https://github.com/Ar1sto/SchauMichAn_CTF/blob/main/vorschaubilder/registrierung_SchauMichAnCTF.png)
 - Die Challenge die du lösen musst.
-![SchauMichAN Capture The Flag - Version 1.1 Menü](https://github.com/Ar1sto/SchauMichAn_CTF/blob/main/SchauMichAnCTF.png)
+![SchauMichAN Capture The Flag - Version 1.2 Design_Challenge](https://github.com/Ar1sto/SchauMichAn_CTF/blob/main/vorschaubilder/SchauMichAnCTF.png)
 
 
 ## Wie kann ich die Challenge beginnen?
