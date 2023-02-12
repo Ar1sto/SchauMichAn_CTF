@@ -1,6 +1,6 @@
 # SchauMichAn.CTF
 Versuche dieses Rätsel zu lösen.
-Die einzige Voraussetzung: Python3 und eine Linux-Distribution die am besten auf Debian basiert. 
+Die einzige Voraussetzung: Linux
 
 - Du musst dich Registrieren wenn du mitspielen möchtest.
 ![SchauMichAN Capture The Flag - Version 1.2 Registrierung_u_Anmeldung](https://github.com/Ar1sto/SchauMichAn_CTF/blob/main/vorschaubilder/registrierung_SchauMichAnCTF.png)
