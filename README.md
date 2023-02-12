@@ -26,7 +26,7 @@ Ich hoffe die Challenge fordert dich ein bisschen. Viel Spaß und gutes gelingen
 VERSION 1.2.0
 
 - Systemunterstützung
-   - Seit Version 1.2.0 wird auschließlich Linux (unter Debian-basierten Systemen getestet) Systeme unterstützt.  
+   - Seit Version 1.2.0 werden auschließlich Linux (unter Debian-basierten Systemen getestet) Systeme unterstützt.  
 - Registrierung u. Anmeldung
    - Es ist nun möglich sich mit einem Discord- oder beliebigen Namen zu registrieren und einzuloggen.
 - Verbesserungen
