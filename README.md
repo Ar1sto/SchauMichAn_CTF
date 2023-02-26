@@ -10,7 +10,7 @@ Die einzige Voraussetzung: Linux
 
 
 ## Wie kann ich die Challenge beginnen?
-- [Finde es heraus.](https://anonfiles.com/N5bbB5aaza/SchauMichAn)
+- [Finde es heraus.](https://anonfiles.com/kdicB5aaz7/SchauMichAnCTF_tar_gz)
 
 - Sollte der Link nicht funktionieren, kontaktiere mich über Discord: Omniscius#6583
  
