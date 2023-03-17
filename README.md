@@ -21,6 +21,10 @@ Ich hoffe die Challenge fordert dich ein bisschen. Viel Spaß und gutes gelingen
 
 -Ar1sto
 
+## HINWEIS
+
+Das reverse engineeren oder das manipulieren des Quellcodes gehört nicht zum CTF und sorgt dafür das der Teilnehmer sofort disqualifiziert wird.
+
 ## UPDATE INFORMATIONEN
 
 VERSION 1.2.0
