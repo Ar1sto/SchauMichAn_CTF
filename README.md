@@ -1,6 +1,6 @@
 # SchauMichAn.CTF
 Versuche dieses Rätsel zu lösen.
-Die einzige Voraussetzung: Linux
+Die einzigen Voraussetzung: Linux, LOLcat (`sudo apt-get install lolcat -y`)
 
 - Du musst dich Registrieren wenn du mitspielen möchtest.
 ![SchauMichAN Capture The Flag - Version 1.2 Registrierung_u_Anmeldung](https://github.com/Ar1sto/SchauMichAn_CTF/blob/main/vorschaubilder/registrierung_SchauMichAnCTF.png)
@@ -10,7 +10,7 @@ Die einzige Voraussetzung: Linux
 
 
 ## Wie kann ich die Challenge beginnen?
-- [Finde es heraus.](https://anonfiles.com/kdicB5aaz7/SchauMichAnCTF_tar_gz)
+- [Lade die CTF-Challenge als Archiv herunter.](https://drive.google.com/file/d/1AdGoc5FISeb_CRIklWN3WvCb6Ac4rnvT/view?usp=sharing)
 
 - Sollte der Link nicht funktionieren, kontaktiere mich über Discord: Omniscius#6583
  
