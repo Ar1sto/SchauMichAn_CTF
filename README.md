@@ -12,7 +12,7 @@ Die einzigen Voraussetzung: Linux, LOLcat (`sudo apt-get install lolcat -y`)
 ## Wie kann ich die Challenge beginnen?
 - [Lade die CTF-Challenge als Archiv herunter.](https://drive.google.com/file/d/17V5wfWsjRimNC9geDyvk5t4xfcXw1XDP/view?usp=share_link)
 
-- Sollte der Link nicht funktionieren, kontaktiere mich über Discord: Omniscius#6583
+   - Sollte der Link nicht funktionieren, kontaktiere mich über Discord: Omniscius#6583
  
 
 Wenn dir das CTF gefällt, dann teile es mit anderen und lass ein Stern da.
